@@ -99,5 +99,5 @@ def Blog(start_page,uid,first = False):
     return page
     
 if __name__ == '__main__':
-    Blog(66,2803301701,True)
+    Blog(1,2803301701,True)
     # GetBlogContent(2803301701,629,'test')
